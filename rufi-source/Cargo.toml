@@ -1,0 +1,15 @@
+[package]
+name = "rufi"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+tokio = { version = "1", features = ["full"] }
+openssl = { version = "0.10.38", features = ["vendored"] }
+base64 = "0.13.0"
+serde_json = "*"
+trust-dns-resolver = "0.21.1"
+clap = { version = "3.1.6", features = ["derive"] }

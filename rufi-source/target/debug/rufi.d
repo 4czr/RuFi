@@ -1,0 +1,1 @@
+/home/ozz/Desktop/dev/rust/rufi/target/debug/rufi: /home/ozz/Desktop/dev/rust/rufi/src/direnum.rs /home/ozz/Desktop/dev/rust/rufi/src/dns.rs /home/ozz/Desktop/dev/rust/rufi/src/geo.rs /home/ozz/Desktop/dev/rust/rufi/src/main.rs /home/ozz/Desktop/dev/rust/rufi/src/subenum.rs

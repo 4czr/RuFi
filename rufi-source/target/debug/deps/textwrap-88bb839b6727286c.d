@@ -1,0 +1,12 @@
+/home/ozz/Desktop/dev/rust/rufi/target/debug/deps/textwrap-88bb839b6727286c.rmeta: /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs
+
+/home/ozz/Desktop/dev/rust/rufi/target/debug/deps/libtextwrap-88bb839b6727286c.rlib: /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs
+
+/home/ozz/Desktop/dev/rust/rufi/target/debug/deps/textwrap-88bb839b6727286c.d: /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs /home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs
+
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs:
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs:
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs:
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs:
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs:
+/home/ozz/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs:
