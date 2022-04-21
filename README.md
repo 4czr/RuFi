@@ -19,8 +19,6 @@ Email ozz@riseup.net
     -s, --subs <SubEnum>      Subdomain Enumuration [requires -w flag]
     -w, --words <wordlist>    Wordlist input, use full path
                               Example: -w /home/youruser/dir.txt
-
-
 ```
 
 # Version
