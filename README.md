@@ -46,3 +46,6 @@ DNS Resolver
 
 GeoIP Location
 ```./rufi -g 127.0.0.1```
+
+# Changelog
+21/04/2022: 0.2 released, port scanner added
