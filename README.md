@@ -46,7 +46,7 @@ GeoIP Location
 ```./rufi -g 127.0.0.1```
 
 # License
-Open Source/Creative Commons license - You may use/change/edit/recreate this software anyway you like. It's completely free to use, all I ask is you give me a star :)
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You may use this software anyway you like, but you may not profit off this work. Open Source/Freeware FTFW
 
 # Changelog
 21/04/2022: 0.2 released, port scanner added
