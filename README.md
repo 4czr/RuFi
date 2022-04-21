@@ -52,3 +52,10 @@ Open Source/Creative Commons license - You may use/change/edit/recreate this sof
 
 # Changelog
 21/04/2022: 0.2 released, port scanner added
+
+# Donations
+Of course, this software is entirely free and I do NOT expect any donations of any kind, however if you like this project and do wish to donate, that would be awesome :)
+
+BTC: bc1qjgts2j4xlq28hatrmta0apl0zveq2meydr9s3h
+ETH: 0x5d11B47AED91993d0548AA133735Ab3c3b20F529
+XMR: 49GroSUCxvnBG4vNgzWQQf4rCaZ27hXae9pL22ACY7FJa72qSTCTPyPNbT7pvhwqQ1BwTuPuQHvb5DU6PYLFwXjq4ooEny4
