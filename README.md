@@ -47,5 +47,8 @@ DNS Resolver
 GeoIP Location
 ```./rufi -g 127.0.0.1```
 
+# License
+Open Source/Creative Commons license - You may use/change/edit/recreate this software anyway you like. It's completely free to use, all I ask is you give me a star :)
+
 # Changelog
 21/04/2022: 0.2 released, port scanner added
