@@ -50,6 +50,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 # Changelog
 5/5/2022: Added service enumeration to the port scanner
+
 21/04/2022: 0.2 released, port scanner added
 
 # Donations
