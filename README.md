@@ -49,6 +49,7 @@ GeoIP Location
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You may use this software anyway you like, but you may not profit off this work. Open Source/Freeware FTFW
 
 # Changelog
+5/5/2022: Added service enumeration to the port scanner
 21/04/2022: 0.2 released, port scanner added
 
 # Donations
