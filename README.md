@@ -1,7 +1,7 @@
 # Welcome to RuFi 
 RustFinder is a fast web application reconnaissance tool written in Rust for ethical hackers. The purpose was to have a project to start learning rust that could also perhaps help other people. I'm not saying you should use this over any of the other clearly better solutions out there, however some people may find a use for it :) I welcome any and all comments. I plan to work on this frequently.
 
-![RuFi](rufi.gif)
+![RuFi/RustFinder](rufi.gif)
 
 Twitter @_Ozz
 
